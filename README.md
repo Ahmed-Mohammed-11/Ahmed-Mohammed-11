@@ -44,6 +44,7 @@
 
   <h3>Find Me On</h3>
   
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohamed-1962211b8/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gitbook.axm0us.live/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-1B6B93?logo=linkedIn)](https://www.linkedin.com/in/ahmed-mohamed-1962211b8/)
+[![Website Badge](https://img.shields.io/badge/My%20Blog-9BABB8?logo=googlechrome&logoColor=white)](https://gitbook.axm0us.live/)
+[![Stack OverFlow Badge](https://img.shields.io/badge/stackoverflow-black?logo=stackoverflow)](https://stackoverflow.com/users/22124017/ahmed-mohamed) 
 
