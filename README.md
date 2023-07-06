@@ -48,9 +48,6 @@
   </p>
   <br>
 
-  <p align="center">
-  <img src="https://github.com/osama-belal/osama-belal/blob/output/github-contribution-grid-snake.gif" alt="Osama's GitHub stats" />
-</p>
 
   <h3>Find Me On</h3>
   
