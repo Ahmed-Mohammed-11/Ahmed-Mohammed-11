@@ -11,6 +11,12 @@
 - 🏢 I'm a Student @ Computer and Systems Department, Cybersecurity Researcher and Enthusiast
 <br>
 
+
+<p align="center">
+  <img width="50%" src="https://streak-stats.demolab.com?user=ahmed-mohammed-11&theme=ayu-mirage&hide_border=true&border_radius=15&fire=FA8B00&ring=FA8B00"/>
+  
+</p>
+
   <h3>Tech Stack</h3>
 
   <p>
@@ -41,6 +47,10 @@
       <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
   </p>
   <br>
+
+  <p align="center">
+  <img src="https://github.com/osama-belal/osama-belal/blob/output/github-contribution-grid-snake.gif" alt="Osama's GitHub stats" />
+</p>
 
   <h3>Find Me On</h3>
   
