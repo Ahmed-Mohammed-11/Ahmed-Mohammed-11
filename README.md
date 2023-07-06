@@ -52,7 +52,7 @@
   <br>
 
   #
-<a href=#><img src="contributions.svg"></a>
+<a href=#><img src="Status.svg"></a>
   #
 
   <h3>Find Me On</h3>
