@@ -1,28 +1,26 @@
 <h3 align="center">
-  Hello there, I'm Ahmed Mohamed
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hello there, I'm Ahmed Mohamed &nbsp;
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h3>
+
+
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer%20;Cybersecurity%20Researcher%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer%20;Cybersecurity%20Researcher;CTF%20Player%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- I'm a Student @ Computer and Systems Department, Cybersecurity Researcher and Enthusiast
-- CTF Player
-- Check out my Cryptography Course on Udemy : Comming Soon
-
-<br>
-
-
 <p align="center">
-  <img width="50%" src="https://streak-stats.demolab.com?user=ahmed-mohammed-11&theme=ayu-mirage&hide_border=true&border_radius=15&fire=FA8B00&ring=FA8B00"/>
-  
+  <img width="80%" src="https://streak-stats.demolab.com?user=ahmed-mohammed-11&theme=ayu-mirage&hide_border=true&border_radius=15&fire=FA8B00&ring=FA8B00"/>
 </p>
 
-  <h3>Tech Stack</h3>
 
-  <p>
+
+
+
+  <h2 align="center" >Tech Stack</h2>
+
+  <p align="center" width="100%">
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -51,11 +49,11 @@
   </p>
   <br>
 
-  #
-<a href=#><img src="Status.svg"></a>
-  #
 
-  <h3>Find Me On</h3>
+<a href=#><img width="100%"  src="Status.svg"></a>
+
+
+  <h2>Find Me On</h2>
   
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-1B6B93?logo=linkedIn)](https://www.linkedin.com/in/ahmed-mohamed-1962211b8/)
 [![Website Badge](https://img.shields.io/badge/My%20Blog-9BABB8?logo=googlechrome&logoColor=white)](https://gitbook.axm0us.live/)
