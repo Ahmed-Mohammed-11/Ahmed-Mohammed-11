@@ -51,6 +51,9 @@
   </p>
   <br>
 
+  #
+<a href=#><img src="contributions.svg"></a>
+  #
 
   <h3>Find Me On</h3>
   
