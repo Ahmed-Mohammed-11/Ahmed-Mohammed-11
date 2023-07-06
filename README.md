@@ -8,7 +8,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer%20;Cybersecurity%20Researcher%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Student @ Computer and Systems Department, Cybersecurity Researcher and Enthusiast
+- I'm a Student @ Computer and Systems Department, Cybersecurity Researcher and Enthusiast
+- CTF Player
+- Check out my Cryptography Course on Udemy : Comming Soon
+
 <br>
 
 
